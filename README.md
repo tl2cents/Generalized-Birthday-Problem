@@ -1,5 +1,5 @@
 
-The repository contains the codes that accompany the paper "Revisiting the Generalized Birthday Problem and Equihash: Single or K Lists?". The eprint version of the paper will soon be available. In this work, we revisit the following two long-conflated problems and fill in theoretical gaps in solving the single-list variant of $\textsf{GBP}$.
+The repository contains the codes that accompany the paper "Revisiting the Generalized Birthday Problem and Equihash: Single or K Lists?". The eprint version of the paper is available at [eprint/2025/1351](https://eprint.iacr.org/2025/1351.pdf). In this work, we revisit the following two long-conflated problems and fill in theoretical gaps in solving the single-list variant of $\textsf{GBP}$.
 
 **Definition. *Strict Generalized Birthday Problem.*** $\textsf{SGBP}(n, K)$: Given $K$ lists $L_1, \ldots, L_K$ containing random $n$-bit values, the strict generalized birthday problem involves finding $x_1 \in L_1, \ldots, x_K \in L_K$ such that 
 
